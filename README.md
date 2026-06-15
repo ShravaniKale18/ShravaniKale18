@@ -10,9 +10,16 @@
 - SQL & Databases
 - JavaScript
 
-🚀 Projects
-- 💰 Smart Expense Manager System
-- 📚 DSA Problem Solving Repository
+## 🚀 Projects
+
+### 💰 Smart Expense Manager System
+A Java-based expense tracking application that helps users manage income, expenses, budgets, and financial records efficiently.
+
+### 🌐 Personal Portfolio Website
+A responsive portfolio website showcasing my projects, skills, achievements, and professional journey.
+
+### 📚 DSA Problem Solving Repository
+A collection of Data Structures and Algorithms solutions covering arrays, linked lists, trees, graphs, dynamic programming, and more.
 - More projects coming soon...
 
 📊 GitHub Stats
