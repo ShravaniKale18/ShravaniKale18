@@ -19,10 +19,10 @@
 
 ![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true)
 
-🔥 Streak Stats
+<!--🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShravaniKale18)
-
+-->
 🛠️ Languages & Tools
 
 - Java
