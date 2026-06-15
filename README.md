@@ -9,6 +9,7 @@
 - Java Development
 - SQL & Databases
 - JavaScript
+- Python Libraries (Numpy, Pandas, Matplotlib)
 
 ## 🚀 Projects
 
