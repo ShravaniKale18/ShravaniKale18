@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Shravani Kale
 
-<!--
-**ShravaniKale18/ShravaniKale18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Java, Data Structures & Algorithms, and Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Data Structures and Algorithms
+- Java Development
+- SQL & Databases
+- JavaScript
+
+🚀 Projects
+- 💰 Smart Expense Manager System
+- 📚 DSA Problem Solving Repository
+- More projects coming soon...
+
+📊 GitHub Stats
+
+![Shravani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true)
+
+🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShravaniKale18)
+
+🛠️ Languages & Tools
+
+- Java
+- JavaScript
+- HTML
+- CSS
+- SQL
+- Git & GitHub
+
+📫 Connect with Me
+
+- GitHub: https://github.com/ShravaniKale18
+- LinkedIn: www.linkedin.com/in/kale-shravani
+
+✨ "Consistent practice beats talent when talent doesn't practice."
