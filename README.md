@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shravani Kale
 
-🎓 Computer Engineering Student
+🎓 Information Engineering Student
 
 💻 Passionate about Java, Data Structures & Algorithms, and Web Development
 
