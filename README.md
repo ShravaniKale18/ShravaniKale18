@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shravani Kale 👋
 
-### Software Development Engineer in the making | Full-Stack Developer | DSA Enthusiast
+### Software Development Engineer in the making | FrontEnd development Developer | DSA Enthusiast
 
 I'm a third-year **Information Technology** student who loves turning ideas into clean, working software — from full-stack web apps to algorithmic problem-solving. Currently on the hunt for **SDE Internship** opportunities where I can learn fast and ship real things.
 
@@ -20,9 +20,9 @@ I'm a third-year **Information Technology** student who loves turning ideas into
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Information Technology, Class of 2028 — currently in my second year
-- 💻 Passionate about **Data Structures & Algorithms**, **full-stack web development**, and writing clean, maintainable code
-- 🌱 Currently deepening my skills in Java, JavaScript, SQL, and Python data libraries (NumPy, Pandas, Matplotlib)
+- 🎓 B.Tech in Information Technology, Class of 2028 — currently in my third year
+- 💻 Passionate about **Data Structures & Algorithms**, **front-end development**, and writing clean, maintainable code
+- 🌱 Currently deepening my skills in Java, JavaScript, SQL, and Python data libraries (NumPy, Pandas, Matplotlib, Pydantic)
 - 🎯 Actively preparing for **SDE Internship** and placement opportunities
 - ⚡ Fun fact: I'd rather debug a tricky bug at midnight than leave it for tomorrow
 
@@ -53,6 +53,8 @@ I'm a third-year **Information Technology** student who loves turning ideas into
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
