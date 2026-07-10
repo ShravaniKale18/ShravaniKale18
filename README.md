@@ -6,7 +6,7 @@
 
 I'm a second-year **Information Technology** student who loves turning ideas into clean, working software — from full-stack web apps to algorithmic problem-solving. Currently on the hunt for **SDE Internship** opportunities where I can learn fast and ship real things.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kale-shravani)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanikale1803@gmail.com)
 
