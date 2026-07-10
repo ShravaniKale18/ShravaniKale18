@@ -124,10 +124,10 @@ A growing collection of Data Structures & Algorithms solutions covering arrays, 
 ## 💻 Coding Profiles
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/shravanikale38/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6B20?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.naukri.com/code360/profile/aa4fab34-390b-41c7-98b1-06f005064a67"><img src="https://img.shields.io/badge/Coding%20Ninjas-DD6B20?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 > ⚠️ Add your actual profile links here so recruiters can see your solved-problem count and ratings — this is one of the most-checked links on an SDE candidate's profile.
