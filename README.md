@@ -116,8 +116,8 @@ A growing collection of Data Structures & Algorithms solutions covering arrays, 
 
 - 🎓 Maintaining a CGPA of **8.98/10** in B.Tech Information Technology
 - 📜 Completed Diploma in Computer Engineering with **93.65%**
-- 🧩 Actively solving DSA problems — *(add your problem count / rank here once available)*
-- 🏅 *(Add hackathons, coding contest ranks, or college achievements here)*
+- 🧩 Actively solving DSA problems 
+
 
 ---
 
