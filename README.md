@@ -23,9 +23,9 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 
 - 🎓 Third-year B.Tech Information Technology student (Class of 2028)
 - 💻 Interested in Software Development, Machine Learning, and Problem Solving
-- 🌱 Currently learning Scikit-learn, Streamlit, and Advanced DSA
+- 🌱 Currently learning Scikit-learn, and Advanced DSA
 - 🚀 Building end-to-end Machine Learning projects with deployment
-- 🎯 Preparing for Software Development Engineer Internship opportunities
+- 🎯 Preparing for Software Development Engineer and AI/ML Internship opportunities
 - ⚡ I enjoy learning by building real-world projects.
 
 ---
@@ -44,13 +44,11 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 ## Frameworks & Libraries
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD4?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Databases & Tools
 
@@ -119,7 +117,6 @@ A growing collection of Data Structures & Algorithms solutions covering:
 # 🤖 Currently Learning
 
 - Machine Learning
-- Streamlit Deployment
 - Scikit-learn
 - Data Structures & Algorithms
 - System Design Fundamentals
@@ -130,7 +127,6 @@ A growing collection of Data Structures & Algorithms solutions covering:
 
 - 🎓 B.Tech CGPA: **8.98/10**
 - 🎓 Diploma in Computer Engineering: **93.65%**
-- 💻 Built and deployed Machine Learning applications using Streamlit
 - 📚 Actively solving Data Structures & Algorithms problems
 
 ---
