@@ -85,15 +85,7 @@ Predicts medical insurance charges using Multiple Linear Regression, with full e
 Full-stack expense tracking application with complete CRUD functionality for managing income, expenses, and financial records, backed by a normalized SQLite schema.
 
 **Tech Stack:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript
-**Repo:** _add link_
-
----
-
-### 🩺 Health Prediction System
-Symptom-based web application that suggests treatment recommendations across homeopathy and allopathy, backed by a structured MySQL database.
-
-**Tech Stack:** HTML, CSS, JavaScript, MySQL
-**Repo:** _add link_
+**Repo:** https://github.com/ShravaniKale18/Smart-Expense-Manager-System.git
 
 ---
 
@@ -110,6 +102,14 @@ A growing collection of Data Structures & Algorithms solutions covering Arrays, 
 
 **Language:** Java
 **Repo:** https://github.com/ShravaniKale18/Data-Structures-and-algorithms.git
+
+---
+
+### 🩺 Health Prediction System
+Symptom-based web application that suggests treatment recommendations across homeopathy and allopathy, backed by a structured MySQL database.
+
+**Tech Stack:** HTML, CSS, JavaScript, MySQL
+**Repo:** _add link_
 
 ---
 
