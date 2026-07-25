@@ -11,6 +11,7 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kale-shravani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanikale1803@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shravanikale38/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShravaniKale18&color=blueviolet&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/ShravaniKale18?style=flat-square&color=blue)
@@ -21,12 +22,12 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 
 # 👩‍💻 About Me
 
-- 🎓 Third-year B.Tech Information Technology student (Class of 2028)
+- 🎓 Third-year B.Tech Information Technology student (Class of 2028) — CGPA **8.98/10**
 - 💻 Interested in Software Development, Machine Learning, and Problem Solving
-- 🌱 Currently learning Scikit-learn, and Advanced DSA
-- 🚀 Building end-to-end Machine Learning projects with deployment
+- 🧩 Solved **83+ DSA problems** on LeetCode across arrays, strings, and more
+- 🚀 Building end-to-end Machine Learning projects with real deployment — not just notebooks
 - 🎯 Preparing for Software Development Engineer and AI/ML Internship opportunities
-- ⚡ I enjoy learning by building real-world projects.
+- ⚡ I enjoy learning by building real-world projects
 
 ---
 
@@ -49,6 +50,7 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD4?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## Databases & Tools
 
@@ -63,62 +65,66 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 
 # 🚀 Featured Projects
 
-### 💰 Smart Expense Manager System
-- Full-stack expense tracking application
-- Manage income, expenses, and financial records
+### 🎓 Student Performance Prediction (Machine Learning)
+Predicts student academic performance from 2,000+ student records across 15 academic and lifestyle features. Compared Linear Regression and Random Forest models — best model achieved an **R² of 0.96** — then deployed as an interactive prediction app.
 
-**Tech Stack:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript
-
----
-
-### 🩺 Health Prediction System
-- Web application that suggests treatment recommendations
-- Uses MySQL database for storing medical information
-
-**Tech Stack:** HTML, CSS, JavaScript, MySQL
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Pickle
+**Live Demo:** [studentperformanceprediction.streamlit.app](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) · **Repo:** _add link_
 
 ---
 
 ### 🏥 Insurance Charges Prediction (Machine Learning)
-
-- Predicts medical insurance charges using **Multiple Linear Regression**
-- Performed Exploratory Data Analysis (EDA)
-- Feature Engineering using One-Hot Encoding
-- Model Evaluation using R² Score, MAE & MSE
-- Deployed using **Streamlit**
+Predicts medical insurance charges using Multiple Linear Regression, with full exploratory data analysis, One-Hot Encoding for categorical features, and model evaluation via R² Score, MAE, and MSE.
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+**Live Demo:** _add link if deployed_ · **Repo:** _add link_
+
+---
+
+### 💰 Smart Expense Manager System
+Full-stack expense tracking application with complete CRUD functionality for managing income, expenses, and financial records, backed by a normalized SQLite schema.
+
+**Tech Stack:** Node.js, Express.js, SQLite, HTML, CSS, JavaScript
+**Repo:** _add link_
+
+---
+
+### 🩺 Health Prediction System
+Symptom-based web application that suggests treatment recommendations across homeopathy and allopathy, backed by a structured MySQL database.
+
+**Tech Stack:** HTML, CSS, JavaScript, MySQL
+**Repo:** _add link_
 
 ---
 
 ### 🌐 Personal Portfolio Website
-
-A responsive personal portfolio showcasing my projects, skills, education, and achievements.
+A fully responsive personal portfolio showcasing my projects, skills, education, and achievements.
 
 **Tech Stack:** HTML, CSS, JavaScript
+**Live Site:** [shravanikale18.github.io/PersonalPortfolioWebsite](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
 
 ---
 
 ### 📚 DSA Problem Solving Repository
-
-A growing collection of Data Structures & Algorithms solutions covering:
-
-- Arrays
-- Strings
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
+A growing collection of Data Structures & Algorithms solutions covering Arrays, Strings, Linked Lists, Trees, Graphs, and Dynamic Programming.
 
 **Language:** Java
+**Repo:** _add link_
+
+---
+
+# 💼 Internships & Certifications
+
+- 🤖 **AI & ML Internship** — Codomax Digital Solutions (2-week hands-on program, July 2026)
+- 💻 **Frontend Development Virtual Internship** — CodeAlpha (June–July 2026)
+- 📜 **Machine Learning with AI Training** — Internshala Trainings & IITM Pravartak Technologies Foundation (8-week program, recognized as **Top Performer**, Grade A, NSDC & Skill India certified)
 
 ---
 
 # 🤖 Currently Learning
 
-- Machine Learning
-- Scikit-learn
-- Data Structures & Algorithms
+- Advanced Machine Learning & Model Deployment
+- Data Structures & Algorithms (Advanced)
 - System Design Fundamentals
 
 ---
@@ -127,7 +133,9 @@ A growing collection of Data Structures & Algorithms solutions covering:
 
 - 🎓 B.Tech CGPA: **8.98/10**
 - 🎓 Diploma in Computer Engineering: **93.65%**
-- 📚 Actively solving Data Structures & Algorithms problems
+- 🧩 Solved **83+ DSA problems** on LeetCode
+- 🥇 Recognized as a **Top Performer** — Internshala Machine Learning with AI Training
+- 🚀 Two live, deployed projects: [Student Performance Predictor](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) & [Personal Portfolio](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
 
 ---
 
