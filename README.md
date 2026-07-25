@@ -109,7 +109,7 @@ A fully responsive personal portfolio showcasing my projects, skills, education,
 A growing collection of Data Structures & Algorithms solutions covering Arrays, Strings, Linked Lists, Trees, Graphs, and Dynamic Programming.
 
 **Language:** Java
-**Repo:** _add link_
+**Repo:** https://github.com/ShravaniKale18/Data-Structures-and-algorithms.git
 
 ---
 
