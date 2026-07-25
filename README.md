@@ -69,7 +69,7 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 Predicts student academic performance from 2,000+ student records across 15 academic and lifestyle features. Compared Linear Regression and Random Forest models — best model achieved an **R² of 0.96** — then deployed as an interactive prediction app.
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Pickle
-**Live Demo:** [studentperformanceprediction.streamlit.app](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) · **Repo:** _add link_
+**Live Demo:** [studentperformanceprediction.streamlit.app](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) · **Repo:** [Student Performance Prediction](https://github.com/ShravaniKale18/Student_Performance_Prediction.git)
 
 ---
 
@@ -77,7 +77,7 @@ Predicts student academic performance from 2,000+ student records across 15 acad
 Predicts medical insurance charges using Multiple Linear Regression, with full exploratory data analysis, One-Hot Encoding for categorical features, and model evaluation via R² Score, MAE, and MSE.
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Streamlit
-**Live Demo:** _add link if deployed_ · **Repo:** _add link_
+**Live Demo:** [insurancechargesprediction.streamlit.app](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/) · **Repo:** [Insurance Charges Prediction](https://github.com/ShravaniKale18/insurance-charges-prediction.git)
 
 ---
 
@@ -135,7 +135,7 @@ A growing collection of Data Structures & Algorithms solutions covering Arrays, 
 - 🎓 Diploma in Computer Engineering: **93.65%**
 - 🧩 Solved **83+ DSA problems** on LeetCode
 - 🥇 Recognized as a **Top Performer** — Internshala Machine Learning with AI Training
-- 🚀 Two live, deployed projects: [Student Performance Predictor](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) & [Personal Portfolio](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
+- 🚀 Three live, deployed projects: [Student Performance Predictor](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/), [Insurance Charges Predictor](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/) & [Personal Portfolio](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
 
 ---
 
