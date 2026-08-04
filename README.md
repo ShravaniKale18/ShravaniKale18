@@ -24,7 +24,7 @@ Currently preparing for **Software Development Engineer (SDE) Internship** oppor
 
 - 🎓 Third-year B.Tech Information Technology student (Class of 2028) — CGPA **8.98/10**
 - 💻 Interested in Software Development, Machine Learning, and Problem Solving
-- 🧩 Solved **83+ DSA problems** on LeetCode across arrays, strings, and more
+- 🧩 Solved **100+ DSA problems** on LeetCode across arrays, strings, and more
 - 🚀 Building end-to-end Machine Learning projects with real deployment — not just notebooks
 - 🎯 Preparing for Software Development Engineer and AI/ML Internship opportunities
 - ⚡ I enjoy learning by building real-world projects
