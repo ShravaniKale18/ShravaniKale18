@@ -185,14 +185,14 @@ A curated showcase of my projects, skills, and journey as a developer.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true" width="34%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&v=2" width="34%"/>
 
-<img src="https://streak-stats.demolab.com?user=ShravaniKale18&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=ShravaniKale18&theme=tokyonight&hide_border=true&v=2" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true&v=2" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&no-frame=true&row=1&column=7&v=2" width="90%"/>
 
 </div>
 
