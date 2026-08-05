@@ -1,81 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Hi%20There,%20I'm%20Shravani%20Kale%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Full-Stack%20%26%20ML%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header" width="100%"/>
 
-<a href="https://www.linkedin.com/in/kale-shravani">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:shravanikale1803@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/shravanikale38/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shravani+Kale;Aspiring+Software+Development+Engineer;Full-Stack+%26+Machine+Learning+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShravaniKale18&color=764ba2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/ShravaniKale18?label=Followers&style=flat-square&color=764ba2)
+<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kale-shravani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shravanikale1803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/shravanikale38/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShravaniKale18&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ShravaniKale18?style=for-the-badge&color=764ba2&label=FOLLOWERS)
 
 </div>
 
 <br/>
 
-## 👩‍💻 About Me
+## 🧭 About Me
 
-```yaml
-name: Shravani Kale
-role: B.Tech Information Technology Student
-cgpa: 8.98 / 10.0
-interests: [Software Development, Full-Stack Web, Machine Learning, DSA]
-currently_seeking: SDE / Python Developer / AI-ML & Data Analyst Internships
-fun_fact: "I turn coffee ☕ and curiosity into code"
-```
+I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) with a strong foundation in **Data Structures & Algorithms**, **full-stack web development**, and **machine learning**. I enjoy translating real-world problems into working software — from responsive web apps to deployed ML models — and I'm actively seeking **SDE, Python Developer, and AI/ML / Data Analyst internship** opportunities where I can contribute and keep growing as an engineer.
 
-- 🎓 B.Tech in Information Technology — **CGPA 8.98/10**
-- 🧩 Solving Data Structures & Algorithms consistently
-- 🚀 Building and deploying full-stack & ML projects end-to-end
-- 🎯 Preparing for SDE and AI/ML internship opportunities
-- 📫 Always open to collaborating on interesting projects
+- 🎓 B.Tech in Information Technology | CGPA **8.98/10**
+- 🧩 Consistent problem-solver on **LeetCode** and **Code360**
+- 🚀 Built and deployed multiple full-stack and ML projects end-to-end
+- 🎯 Currently seeking SDE / AI-ML / Data Analyst internships
+- 🌱 Continuously sharpening skills in DSA and applied machine learning
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 <br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,py,js,cpp,html,css" />
 
-**Frameworks & Libraries**
+**Frontend**
 <br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-**Databases & Tools**
+**Backend**
 <br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-</div>
+**Machine Learning**
+<br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 
 <br/>
 
@@ -83,84 +70,118 @@ fun_fact: "I turn coffee ☕ and curiosity into code"
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌦️ [Weather Web App](https://github.com/ShravaniKale18/weather-web-app)
-Responsive weather app with real-time data via WeatherAPI and a modern glassmorphism UI.
+### 🎓 Student Performance Prediction
+Machine learning application that predicts student academic performance based on key input features, built and deployed as an interactive web app.
 
-`HTML` `CSS` `JavaScript` `WeatherAPI`
+**Tech Stack:** `Python` `Scikit-learn` `Streamlit`
 
-🔗 [Live Demo](https://shravanikale18.github.io/weather-web-app/)
+🔗 [Live Demo](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/ShravaniKale18/Student_Performance_Prediction)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 [Student Performance Prediction](https://github.com/ShravaniKale18/Student_Performance_Prediction)
-ML model predicting student academic performance from key input features.
+### 🏥 Insurance Charges Prediction
+Regression-based machine learning app that estimates medical insurance charges from user-provided inputs, deployed with a clean interactive interface.
 
-`Python` `Scikit-learn` `Streamlit`
+**Tech Stack:** `Python` `Scikit-learn` `Streamlit`
 
-🔗 [Live Demo](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/)
+🔗 [Live Demo](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/ShravaniKale18/insurance-charges-prediction)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 [Insurance Charges Prediction](https://github.com/ShravaniKale18/insurance-charges-prediction)
-Regression-based ML app estimating medical insurance charges from user inputs.
+### 🌦️ Weather Web App
+A responsive weather application that fetches real-time weather data using the WeatherAPI, featuring a modern glassmorphism UI design.
 
-`Python` `Scikit-learn` `Streamlit`
+**Tech Stack:** `HTML` `CSS` `JavaScript` `WeatherAPI`
 
-🔗 [Live Demo](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/)
+🔗 [Live Demo](https://shravanikale18.github.io/weather-web-app/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/ShravaniKale18/weather-web-app)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 [Smart Expense Manager System](https://github.com/ShravaniKale18/Smart-Expense-Manager-System)
-Full-stack application to track, categorize, and analyze personal expenses.
+### 💰 Smart Expense Manager System
+A full-stack application to track, categorize, and analyze personal expenses, designed to help users manage their finances more effectively.
 
-`Full-Stack` `Database`
+**Tech Stack:** `Full-Stack` `Database`
 
-🔗 [Repository](https://github.com/ShravaniKale18/Smart-Expense-Manager-System)
+📂 [Repository](https://github.com/ShravaniKale18/Smart-Expense-Manager-System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Health Prediction System
+Machine learning–based system for predicting health-related outcomes from user input data.
+
+**Tech Stack:** `Python` `Machine Learning`
+
+📂 [Repository](<!-- REPLACE-HEALTH-PREDICTION-REPO-LINK -->)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 DSA Repository
+A curated collection of Data Structures & Algorithms solutions, organized by topic and problem pattern — a running log of consistent DSA practice.
+
+**Tech Stack:** `Java` / `C++` / `Python`
+
+📂 [Repository](<!-- REPLACE-DSA-REPO-LINK -->)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 🌐 Personal Portfolio Website
+A curated showcase of my projects, skills, and journey as a developer.
+
+🔗 [Live Site](https://shravanikale18.github.io/PersonalPortfolioWebsite/) &nbsp;|&nbsp; 📂 [Repository](https://github.com/ShravaniKale18/PersonalPortfolioWebsite)
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 🌐 [Personal Portfolio Website](https://shravanikale18.github.io/PersonalPortfolioWebsite/)
-*A curated showcase of my work, skills, and journey.*
-
-</div>
-
 <br/>
 
 ## 💼 Internships & Certifications
 
-- 🤖 **AI & ML Internship** — Codomax Digital Solutions
-- 💻 **Frontend Development Virtual Internship** — CodeAlpha
-- 🏅 **Machine Learning with AI** — Internshala *(Top Performer)*
+| Program | Organization | Badge |
+|---|---|---|
+| AI & ML Internship | Codomax Digital Solutions | ![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-Internship-6f42c1?style=flat-square) |
+| Frontend Development Virtual Internship | CodeAlpha | ![Frontend](https://img.shields.io/badge/Frontend-Internship-orange?style=flat-square) |
+| Machine Learning with AI *(Top Performer)* | Internshala | ![Top Performer](https://img.shields.io/badge/Top%20Performer-gold?style=flat-square) |
 
 <br/>
 
 ## 🏆 Achievements
 
-<div align="center">
-
 | Metric | Result |
 |---|---|
 | 🎓 CGPA | **8.98 / 10** |
 | 📜 Diploma | **93.65%** |
-| 🚀 Projects Shipped | **4 real-world projects** |
+| 🚀 Projects Deployed | **4+ real-world applications** |
 | 🥇 Internshala ML with AI | **Top Performer** |
+
+<br/>
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shravanikale38/)
+[![Code360](https://img.shields.io/badge/Code360-1CB0F6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.naukri.com/code360/profile/aa4fab34-390b-41c7-98b1-06f005064a67)
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -171,31 +192,25 @@ Full-stack application to track, categorize, and analyze personal expenses.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true" width="90%"/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
+
 </div>
 
 <br/>
 
-## 📫 Let's Connect
+---
 
 <div align="center">
 
-<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/kale-shravani">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:shravanikale1803@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/shravanikale38/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kale-shravani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shravanikale1803@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/shravanikale38/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
 
-> ⭐ **Learn • Build • Improve • Repeat**
+> *"Learn. Build. Improve. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 
 </div>
