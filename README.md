@@ -44,10 +44,6 @@ I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) wi
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 **Machine Learning**
 <br/>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
