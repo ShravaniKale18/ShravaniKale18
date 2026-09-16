@@ -23,13 +23,13 @@
 
 ## 🧭 About Me
 
-I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) with a strong foundation in **Data Structures & Algorithms**, **full-stack web development**, and **machine learning**. I enjoy translating real-world problems into working software — from responsive web apps to deployed ML models — and I'm actively seeking **SDE, Python Developer, and AI/ML / Data Analyst internship** opportunities where I can contribute and keep growing as an engineer.
+I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) with a strong foundation in **Data Structures & Algorithms**, **full-stack web development**, and **machine learning**. I enjoy translating real-world problems into working software — from responsive web apps to deployed ML models and AI-powered LLM applications — and I'm actively seeking **SDE, Python Developer, and AI/ML / Data Analyst internship** opportunities where I can contribute and keep growing as an engineer.
 
 - 🎓 B.Tech in Information Technology | CGPA **8.98/10**
 - 🧩 Consistent problem-solver on **LeetCode** and **Code360**
-- 🚀 Built and deployed multiple full-stack and ML projects end-to-end
+- 🚀 Built and deployed multiple full-stack, ML, and AI/LLM projects end-to-end
 - 🎯 Currently seeking SDE / AI-ML / Data Analyst internships
-- 🌱 Continuously sharpening skills in DSA and applied machine learning
+- 🌱 Continuously sharpening skills in DSA, applied machine learning, and Generative AI (RAG, LLMs, agents)
 
 <br/>
 
@@ -47,13 +47,15 @@ I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) wi
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Machine Learning**
+**Machine Learning & AI**
 <br/>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Databases**
 <br/>
@@ -68,6 +70,28 @@ I'm a third-year **B.Tech Information Technology** student (CGPA **8.98/10**) wi
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 GitHub Repository Assistant
+AI-powered Retrieval-Augmented Generation (RAG) app that lets you chat with any GitHub repository in natural language — retrieves relevant code and docs via semantic search and answers questions using an LLM.
+
+**Tech Stack:** `Python` `LangChain` `Hugging Face` `ChromaDB` `Streamlit`
+
+📂 [Repository](https://github.com/ShravaniKale18/GitHub-Repository-Assistant)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍🤝‍🧑 Multi-Agent Research System
+Interactive AI research assistant that orchestrates multiple specialized agents in sequence to automate information gathering, synthesis, and analysis for research queries.
+
+**Tech Stack:** `Python` `Streamlit` `Multi-Agent Orchestration`
+
+🔗 [Live Demo](https://multi-agent-research-system-ejzkqjr7uwexjtrbxchmme.streamlit.app/)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -164,7 +188,7 @@ A curated showcase of my projects, skills, and journey as a developer.
 |---|---|
 | 🎓 CGPA | **8.98 / 10** |
 | 📜 Diploma | **93.65%** |
-| 🚀 Projects Deployed | **4+ real-world applications** |
+| 🚀 Projects Deployed | **6+ real-world applications** |
 | 🥇 Internshala ML with AI | **Top Performer** |
 
 <br/>
