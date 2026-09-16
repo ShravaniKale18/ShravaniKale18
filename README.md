@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shravani+Kale;Aspiring+Software+Development+Engineer;Full-Stack+%26+Machine+Learning+Developer;DSA+Enthusiast" alt="Typing SVG" />
 </a>
-
 <br/>
 
 <a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
