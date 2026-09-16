@@ -33,7 +33,7 @@ Profile:
   role: "Aspiring Software Development Engineer"
   focus: ["Generative AI (RAG, LLMs, Agents)", "Full-Stack Development", "Machine Learning"]
   cgpa: 8.98 / 10
-  problems_solved: "83+ on LeetCode"
+  problems_solved: "100+ on LeetCode"
   status: "Open to SDE / AI-ML / Data Analyst internships"
 ```
 
