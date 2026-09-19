@@ -357,6 +357,8 @@ A responsive portfolio website showcasing my projects, technical skills, achieve
 | 🤖 AI & ML Internship | **Codomax Digital Solutions** | July 2026 |
 | 🎨 Frontend Development — Virtual | **CodeAlpha** | Jun – Jul 2026 |
 | 📊 Machine Learning with AI — Top Performer | **Internshala & IITM Pravartak** | Jan 2025 |
+| 📈 Academic Internship — Data Analytics with AI | **AICTE \| IBM SkillsBuild \| BharatCares** | Completed 24 Aug 2026 |
+| ⚡ Building LLM Applications With Prompt Engineering | **NVIDIA** | Issued 2 Sep 2026 |
 
 ---
 
