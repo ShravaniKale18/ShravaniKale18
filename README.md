@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+AI;RAG+%7C+LLMs+%7C+Multi-Agent+Systems;Full-Stack+Web+Development;DSA+%7C+83%2B+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+AI;RAG+%7C+LLMs+%7C+Multi-Agent+Systems;Full-Stack+Web+Development;DSA+%7C+100%2B+Problems+Solved" alt="Typing SVG" />
 
 <br/><br/>
 
