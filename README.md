@@ -1,79 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=230&section=header&text=Shravani%20Kale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Full-Stack%20%26%20AI%2FML%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=230&section=header&text=Shravani%20Kale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/">
+<h2>👩‍💻 B.Tech Information Technology Student</h2>
+
+<p>
+Building practical software with <b>Python, AI/ML, Generative AI & Full-Stack Development</b>
+</p>
+
+<p>
+<a href="https://shravanikale.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kale-shravani">
+<a href="https://linkedin.com/in/shravani-kale">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:shravanikale1803@gmail.com">
+<a href="mailto:shravanikale18@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/shravanikale38/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.naukri.com/code360/profile/aa4fab34-390b-41c7-98b1-06f005064a67">
-<img src="https://img.shields.io/badge/Code360-1CB0F6?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://github.com/ShravaniKale18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=700&lines=Building+with+Python+%26+AI;RAG+%7C+LLMs+%7C+AI+Agents;Full-Stack+Web+Development;Machine+Learning+%7C+Data+Science;DSA+%7C+Problem+Solving" alt="Typing SVG"/>
-
-<br/><br/>
-
+<p>
 <img src="https://komarev.com/ghpvc/?username=ShravaniKale18&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/ShravaniKale18?style=for-the-badge&color=764ba2&label=FOLLOWERS&logo=github"/>
 <img src="https://img.shields.io/badge/CGPA-8.98%2F10-764ba2?style=for-the-badge"/>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=764ABA&center=true&vCenter=true&width=750&lines=Building+with+Python+%26+AI;RAG+%7C+LLMs+%7C+AI+Agents;Machine+Learning+%7C+Data+Science;Full-Stack+Web+Development;DSA+%7C+Problem+Solving" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+## 👋 About Me
 
-Hi! I'm **Shravani Kale**, a third-year **B.Tech Information Technology** student passionate about building practical software using **Python, AI/ML, Generative AI, and Full-Stack Development**.
+Hi! I'm **Shravani Kale**, a third-year **B.Tech Information Technology** student at **Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET), Nanded**.
 
-I enjoy transforming real-world problems into working applications — from **RAG-powered AI assistants and multi-agent systems** to **machine-learning applications, cybersecurity tools, and full-stack web projects**.
+I'm interested in building practical software products using **Python, AI/ML, Generative AI, and Full-Stack Development**.
 
-Currently, I'm strengthening my skills in:
-
-- 🤖 Generative AI, RAG & LLM applications
-- 🧠 AI Agents & Multi-Agent Systems
-- 🐍 Python Development
-- 🌐 Full-Stack Web Development
-- 📊 Machine Learning & Data Analysis
-- 💻 Data Structures & Algorithms
-- 🔐 Cybersecurity & AI Security
+I enjoy working on projects that combine software engineering with AI — especially **RAG applications, LLM-powered tools, AI agents, machine-learning applications, cybersecurity tools, and developer-focused applications**.
 
 ### 🎯 Currently Looking For
 
 **SDE • Python Developer • AI/ML • GenAI • Data Analyst Internships**
 
-```yaml
-Name: "Shravani Kale"
-Education: "B.Tech Information Technology"
-CGPA: "8.98 / 10"
-Primary_Language: "Python"
-Interests:
-  - Generative AI
-  - RAG & LLM Applications
-  - AI Agents
-  - Machine Learning
-  - Full-Stack Development
-  - Cybersecurity
-  - Data Structures & Algorithms
+### 🔭 Currently Exploring
 
-Currently_Learning:
-  - LangChain
-  - RAG
-  - AI Agents
-  - Machine Learning
-  - Advanced Python
-  - DSA
-```
+* 🤖 Generative AI & LLM Applications
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧠 AI Agents & Multi-Agent Systems
+* 🐍 Advanced Python & Backend Development
+* 📊 Machine Learning & Data Analysis
+* 💻 Data Structures & Algorithms
+* 🔐 Cybersecurity & AI Security
 
 ---
 
@@ -82,40 +67,47 @@ Currently_Learning:
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-4285F4?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-5B21B6?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
 
 ---
@@ -124,42 +116,28 @@ Currently_Learning:
 
 ## 🛡️ PhishGuard — AI Phishing Message & URL Analyzer
 
-> **AI-powered cybersecurity application for detecting, analyzing, and explaining potential phishing and social-engineering threats.**
+**AI-powered cybersecurity application for detecting and explaining potential phishing and social-engineering threats.**
 
-PhishGuard combines **rule-based security analysis, heuristic risk scoring, RAG, FAISS, LangChain, and Hugging Face LLMs** to analyze suspicious messages and URLs.
+PhishGuard combines **rule-based security analysis, heuristic risk scoring, RAG, FAISS, LangChain, Sentence Transformers, and Hugging Face LLMs**.
 
-Instead of simply returning a risk score, the system explains:
+### ✨ Features
 
-- 🔍 Why the content may be suspicious
-- ⚠️ Which phishing indicators were detected
-- 🧠 Relevant cybersecurity knowledge using RAG
-- 🛡️ Recommended defensive actions
+* 🔍 Phishing message analysis
+* 🔗 Suspicious URL analysis
+* ⚠️ Urgency & pressure detection
+* 🔐 Credential and OTP request detection
+* 💳 Financial information detection
+* 🌐 Suspicious URL characteristic analysis
+* 📊 Heuristic risk score from 0–100
+* 🧠 RAG-powered cybersecurity knowledge retrieval
+* 🤖 LLM-generated explanations
+* 💻 Interactive Streamlit dashboard
 
-### Key Features
-
-- 🔍 Message phishing analysis
-- 🔗 Suspicious URL analysis
-- ⚠️ Urgency & pressure detection
-- 🔐 Credential request detection
-- 🔑 OTP request detection
-- 💳 Financial information detection
-- 🌐 Suspicious URL characteristic analysis
-- 📊 Heuristic risk score from 0–100
-- 🟢 LOW / 🟠 MEDIUM / 🔴 HIGH classification
-- 🧠 RAG + FAISS knowledge retrieval
-- 🤖 LLM-powered explanations
-- 💻 Streamlit dashboard
-
-### Tech Stack
-
-`Python` `Streamlit` `LangChain` `RAG` `FAISS` `Hugging Face` `Sentence Transformers`
+**Tech:** `Python` `Streamlit` `LangChain` `RAG` `FAISS` `Hugging Face` `Sentence Transformers`
 
 <p>
 <a href="https://phishgaurd---ai-phishing-message-analyzer-b5aw8qqdualgw83rnvkk.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-PhishGuard-764ba2?style=for-the-badge"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/📂%20Repository-Coming%20Soon-0f172a?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-764ba2?style=for-the-badge"/>
 </a>
 </p>
 
@@ -167,47 +145,47 @@ Instead of simply returning a risk score, the system explains:
 
 ## 🤖 GitHub Repository Assistant
 
-AI-powered **RAG application** that allows users to interact with GitHub repositories using natural language.
+An AI-powered **RAG application** that allows users to interact with GitHub repositories using natural language.
 
-The system retrieves relevant code and documentation using semantic search and generates contextual answers using an LLM.
+The application ingests repository files, creates embeddings, performs semantic retrieval, and generates contextual answers using an LLM.
 
-### Highlights
+### ✨ Features
 
-- 📂 GitHub repository ingestion
-- 🔎 Semantic code search
-- 🧠 RAG-based question answering
-- 🤖 LLM-powered responses
-- 💬 Natural-language interaction
+* 📂 GitHub repository ingestion
+* 🔎 Semantic code search
+* 🧠 Retrieval-Augmented Generation
+* 🤖 LLM-powered code explanations
+* 💬 Natural-language repository interaction
+* 🗃️ Repository-specific vector storage
+* ⚡ Streamlit-based interface
 
-### Tech Stack
+**Tech:** `Python` `LangChain` `Hugging Face` `ChromaDB` `Streamlit` `RAG`
 
-`Python` `LangChain` `Hugging Face` `ChromaDB` `Streamlit` `RAG`
-
+<p>
 <a href="https://github.com/ShravaniKale18/GitHub-Repository-Assistant">
-<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20GitHub%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 ---
 
 ## 🧑‍🤝‍🧑 Multi-Agent Research System
 
-An interactive AI research assistant that orchestrates multiple specialized agents to automate information gathering, processing, and analysis.
+An interactive AI research assistant that uses **multiple specialized agents** to automate information gathering, processing, and synthesis.
 
-### Highlights
+### ✨ Features
 
-- 🤖 Multi-agent workflow
-- 🔎 Information gathering
-- 🧠 Task specialization
-- 📚 Research synthesis
-- 📊 Interactive Streamlit interface
+* 🤖 Multi-agent workflow
+* 🔎 Automated information gathering
+* 🧠 Task-specific agent roles
+* 📚 Research synthesis
+* 📊 Interactive Streamlit interface
 
-### Tech Stack
-
-`Python` `Streamlit` `AI Agents` `LLMs`
+**Tech:** `Python` `Streamlit` `AI Agents` `LLMs`
 
 <p>
 <a href="https://multi-agent-research-system-ejzkqjr7uwexjtrbxchmme.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
 </a>
 </p>
 
@@ -215,20 +193,18 @@ An interactive AI research assistant that orchestrates multiple specialized agen
 
 ## 🎓 Student Performance Prediction
 
-Machine learning application that predicts student academic performance using relevant academic and lifestyle features.
+Machine-learning application that predicts student academic performance using academic and lifestyle-related features.
 
-**Model Performance:** R² Score ≈ **0.96**
+**Model Performance:** `R² ≈ 0.96`
 
-### Tech Stack
-
-`Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit`
+**Tech:** `Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit`
 
 <p>
 <a href="https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
 </a>
 <a href="https://github.com/ShravaniKale18/Student_Performance_Prediction">
-<img src="https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -236,145 +212,113 @@ Machine learning application that predicts student academic performance using re
 
 ## 🏥 Insurance Charges Prediction
 
-Regression-based machine learning application that estimates medical insurance charges based on user-provided inputs.
+Regression-based machine-learning application that estimates medical insurance charges from user-provided inputs.
 
-### Tech Stack
-
-`Python` `Pandas` `Scikit-Learn` `Streamlit`
+**Tech:** `Python` `Pandas` `Scikit-Learn` `Streamlit`
 
 <p>
 <a href="https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
 </a>
 <a href="https://github.com/ShravaniKale18/insurance-charges-prediction">
-<img src="https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-## 💰 Smart Expense Manager System
+## 💰 Smart Expense Manager
 
-Full-stack personal finance application for tracking, categorizing, and analyzing income and expenses.
+Full-stack personal finance application for managing and analyzing income and expenses.
 
-### Highlights
+### Features
 
-- 💳 Expense tracking
-- 📊 Dashboard and analytics
-- 🗂️ Expense categorization
-- 🔐 User authentication
-- 💾 Database-backed storage
-- 📱 Responsive interface
+* 💳 Expense tracking
+* 📊 Financial dashboard
+* 🗂️ Expense categorization
+* 🔐 User authentication
+* 💾 Database-backed storage
+* 📱 Responsive interface
 
-### Tech Stack
+**Tech:** `Python` `Flask` `SQLite/MySQL` `HTML` `CSS` `Bootstrap`
 
-`Python` `Flask` `SQLite/MySQL` `HTML` `CSS` `Bootstrap`
-
+<p>
 <a href="https://github.com/ShravaniKale18/Smart-Expense-Manager-System">
-<img src="https://img.shields.io/badge/📂%20View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+</p>
 
 ---
 
 ## 🌦️ Weather Web App
 
-Responsive weather application that fetches real-time weather information using a weather API.
+Responsive weather application that fetches real-time weather information through a weather API.
 
-### Highlights
-
-- 🌡️ Real-time weather information
-- 🌍 Location-based search
-- 📱 Responsive design
-- ✨ Modern glassmorphism interface
-
-### Tech Stack
-
-`HTML` `CSS` `JavaScript` `Weather API`
+**Tech:** `HTML` `CSS` `JavaScript` `Weather API`
 
 <p>
 <a href="https://shravanikale18.github.io/weather-web-app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-GitHub%20Pages-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://github.com/ShravaniKale18/weather-web-app">
-<img src="https://img.shields.io/badge/📂%20Repository-GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-## 🩺 Health Prediction System
+# 💻 Data Structures & Algorithms
 
-Symptom-based web application that maps user-provided symptoms to possible health conditions and provides informational recommendations.
+I regularly practice **DSA and problem solving** across coding platforms.
 
-### Tech Stack
+### 📊 Current Progress
 
-`HTML` `CSS` `JavaScript` `MySQL`
+```text
+300+ Problems Solved
 
----
+Platforms
+├── LeetCode
+└── Code360
 
-## 🧠 DSA Repository
+Languages
+├── Java
+├── C++
+└── Python
 
-A collection of Data Structures & Algorithms solutions organized around common problem-solving patterns.
+Topics
+├── Arrays & Strings
+├── Searching & Sorting
+├── Recursion
+├── Linked Lists
+├── Stacks & Queues
+├── Trees
+├── Graphs
+└── Dynamic Programming
+```
 
-### Topics
-
-- Arrays
-- Strings
-- Searching
-- Sorting
-- Recursion
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
-### Languages
-
-`Java` `C++` `Python`
-
----
-
-# 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my projects, technical skills, achievements, and developer journey.
-
-<p align="center">
-<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/">
-<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/ShravaniKale18/PersonalPortfolioWebsite">
-<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
+🔗 **[View my LeetCode Profile](https://leetcode.com/u/shravanikale38/)**
 
 ---
 
 # 💼 Internships & Certifications
 
-| Program | Organization | Period |
-|:---|:---|:---:|
-| 🤖 AI & ML Internship | **Codomax Digital Solutions** | July 2026 |
-| 🎨 Frontend Development — Virtual | **CodeAlpha** | Jun – Jul 2026 |
-| 📊 Machine Learning with AI — Top Performer | **Internshala & IITM Pravartak** | Jan 2025 |
-| 📈 Academic Internship — Data Analytics with AI | **AICTE \| IBM SkillsBuild \| BharatCares** | Completed 24 Aug 2026 |
-| ⚡ Building LLM Applications With Prompt Engineering | **NVIDIA** | Issued 2 Sep 2026 |
+| Program / Certification                             | Organization                              |     Period     |
+| :-------------------------------------------------- | :---------------------------------------- | :------------: |
+| 🤖 AI & ML Internship                               | **Codomax Digital Solutions**             |    July 2026   |
+| 📊 Data Analytics with AI Internship                | **AICTE | IBM SkillsBuild | BharatCares** |    Aug 2026    |
+| ⚡ Building LLM Applications With Prompt Engineering | **NVIDIA**                                |    Sep 2026    |
+| 🎨 Frontend Development — Virtual Internship        | **CodeAlpha**                             | Jun – Jul 2026 |
+| 🧠 Machine Learning with AI — Top Performer         | **Internshala & IITM Pravartak**          |    Jan 2025    |
 
 ---
 
-# 🏆 Achievements
+# 🏆 Hackathons & Achievements
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CGPA-8.98%2F10-667eea?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Diploma-93.65%25-764ba2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DSA-100%2B%20Problems-0f172a?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Projects-6%2B-667eea?style=for-the-badge"/>
-
-</div>
+* 🚀 Participated in **Hack Devengers 2.0**, a national-level hackathon organized by Devengers via Unstop.
+* ⚡ Participated in **WebRush**, a 6-hour frontend hackathon organized by Frontend Arena via Unstop.
+* 🎓 **CGPA: 8.98 / 10**
+* 📜 **Diploma: 93.65%**
+* 💻 **300+ DSA problems solved**
 
 ---
 
@@ -382,48 +326,49 @@ A responsive portfolio website showcasing my projects, technical skills, achieve
 
 ```text
 Generative AI
-      │
-      ├── RAG
-      ├── LLM Applications
-      ├── AI Agents
-      └── Multi-Agent Systems
+│
+├── LLM Applications
+├── RAG
+├── Vector Databases
+├── AI Agents
+└── Multi-Agent Systems
 
 Software Development
-      │
-      ├── Python
-      ├── Full-Stack Development
-      ├── Backend Development
-      └── REST APIs
+│
+├── Python
+├── Backend Development
+├── Full-Stack Development
+└── REST APIs
 
 Machine Learning
-      │
-      ├── Predictive Modeling
-      ├── Data Analysis
-      ├── Model Evaluation
-      └── Deployment
+│
+├── Predictive Modeling
+├── Data Analysis
+├── Model Evaluation
+└── Deployment
 
 Cybersecurity
-      │
-      ├── Phishing Detection
-      ├── AI Security
-      └── Defensive Security
+│
+├── Phishing Detection
+├── AI Security
+└── Defensive Security
 
 Problem Solving
-      │
-      ├── Data Structures
-      ├── Algorithms
-      └── Competitive Programming
+│
+├── Data Structures
+├── Algorithms
+└── Competitive Programming
 ```
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
 
 <br/><br/>
 
@@ -433,48 +378,23 @@ Problem Solving
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true" width="90%"/>
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
-
 </div>
 
 ---
 
-# 📈 Current Learning Journey
+# 🌐 Personal Portfolio
 
-```text
-Python
-  │
-  ├── Advanced Python
-  │
-  ├── Flask
-  │
-  └── Backend Development
-       │
-       ▼
-Machine Learning
-  │
-  ├── Scikit-Learn
-  ├── Model Evaluation
-  └── Deployment
-       │
-       ▼
-Generative AI
-  │
-  ├── LLMs
-  ├── LangChain
-  ├── RAG
-  ├── Vector Databases
-  └── AI Agents
-       │
-       ▼
-Advanced AI Applications
-  │
-  ├── Multi-Agent Systems
-  ├── AI Security
-  └── Intelligent Developer Tools
-```
+<div align="center">
+
+<a href="https://shravanikale.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShravaniKale18/PersonalPortfolioWebsite">
+<img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
@@ -482,15 +402,15 @@ Advanced AI Applications
 
 <div align="center">
 
-<a href="https://shravanikale18.github.io/PersonalPortfolioWebsite/">
+<a href="https://shravanikale.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kale-shravani">
+<a href="https://linkedin.com/in/shravani-kale">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:shravanikale1803@gmail.com">
+<a href="mailto:shravanikale18@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -504,7 +424,7 @@ Advanced AI Applications
 
 <br/><br/>
 
-### 💜 *Learn. Build. Improve. Repeat.*
+### 💜 Learn. Build. Improve. Repeat.
 
 </div>
 
