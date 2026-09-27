@@ -318,7 +318,7 @@ Topics
 * ⚡ Participated in **WebRush**, a 6-hour frontend hackathon organized by Frontend Arena via Unstop.
 * 🎓 **CGPA: 8.98 / 10**
 * 📜 **Diploma: 93.65%**
-* 💻 **300+ DSA problems solved**
+* 💻 **+ DSA problems solved**
 
 ---
 
@@ -346,12 +346,6 @@ Machine Learning
 ├── Data Analysis
 ├── Model Evaluation
 └── Deployment
-
-Cybersecurity
-│
-├── Phishing Detection
-├── AI Security
-└── Defensive Security
 
 Problem Solving
 │
