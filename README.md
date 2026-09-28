@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=230&section=header&text=Shravani%20Kale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=60&descSize=18" width="100%"/>
 
 <h2>👩‍💻 B.Tech Information Technology Student</h2>
@@ -360,17 +362,26 @@ Problem Solving
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<!-- Generated and stored directly in this repository by GitHub Actions -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <img src="./profile/signal-field-wide-light.svg" alt="GitHub activity summary" width="90%">
+</picture>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ShravaniKale18&theme=tokyonight&hide_border=true" width="70%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg">
+  <img src="./profile/activity-consistency-wide-light.svg" alt="GitHub activity and streak statistics" width="90%">
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true" width="90%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg">
+  <img src="./profile/language-composition-wide-light.svg" alt="GitHub language composition" width="90%">
+</picture>
 
 </div>
 
