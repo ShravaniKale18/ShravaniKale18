@@ -249,10 +249,24 @@ Responsive weather application that fetches real-time weather information via AP
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=radial&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg" />
+    <img src="./profile/signal-field-wide-light.svg" alt="GitHub activity summary" width="90%" />
+  </picture>
+
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg" />
+    <img src="./profile/activity-consistency-wide-light.svg" alt="GitHub activity and streak statistics" width="90%" />
+  </picture>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg" />
+    <img src="./profile/language-composition-wide-light.svg" alt="GitHub language composition" width="90%" />
+  </picture>
 </div>
 
 ---
