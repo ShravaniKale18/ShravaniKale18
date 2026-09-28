@@ -19,12 +19,14 @@ jobs:
 
     steps:
 
+      # Checkout your profile repository
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
 
+      # Generate activity statistics
       - name: Generate Activity Statistics
         id: signal
-        uses: shinpr/github-profile-stats@v0.2.0
+        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
         with:
           username: ${{ github.repository_owner }}
           token: ${{ github.token }}
@@ -37,9 +39,10 @@ jobs:
           mkdir -p profile
           cp "$READY_DIR"/signal-field-*.svg profile/
 
+      # Generate activity consistency statistics
       - name: Generate Activity Consistency
         id: activity
-        uses: shinpr/github-profile-stats@v0.2.0
+        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
         with:
           username: ${{ github.repository_owner }}
           token: ${{ github.token }}
@@ -52,9 +55,10 @@ jobs:
           mkdir -p profile
           cp "$READY_DIR"/activity-consistency-*.svg profile/
 
+      # Generate language statistics
       - name: Generate Language Statistics
         id: languages
-        uses: shinpr/github-profile-stats@v0.2.0
+        uses: shinpr/github-profile-stats@49b5f7091182a45f3ef93923505b660c6da5f835
         with:
           username: ${{ github.repository_owner }}
           token: ${{ github.token }}
@@ -67,6 +71,7 @@ jobs:
           mkdir -p profile
           cp "$READY_DIR"/language-composition-*.svg profile/
 
+      # Commit generated SVG files
       - name: Commit generated statistics
         run: |
           git config user.name "github-actions[bot]"
