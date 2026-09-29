@@ -246,30 +246,48 @@ Responsive weather application that fetches real-time weather information via AP
 
 ---
 
-# 📈 GitHub Stats
+<!-- ==================== GITHUB STATS SECTION START ==================== -->
+
+# 📈 GitHub Stats & Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg" />
-    <img src="./profile/signal-field-wide-light.svg" alt="GitHub activity summary" width="90%" />
-  </picture>
+
+  <!-- TOP LANGUAGES & STATS GRID -->
+  <a href="https://github.com/ShravaniKale18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&card_width=400&title_color=a855f7&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/ShravaniKale18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&bg_color=0f172a" alt="Shravani's GitHub Stats" />
+  </a>
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/activity-consistency-wide-dark.svg" />
-    <img src="./profile/activity-consistency-wide-light.svg" alt="GitHub activity and streak statistics" width="90%" />
-  </picture>
+  <!-- CONTRIBUTION STREAK -->
+  <a href="https://github.com/ShravaniKale18">
+    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  </a>
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg" />
-    <img src="./profile/language-composition-wide-light.svg" alt="GitHub language composition" width="90%" />
-  </picture>
+  <!-- TROPHIES & MILESTONES -->
+  <details>
+    <summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
+    <br/>
+    <a href="https://github.com/ShravaniKale18">
+      <img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    </a>
+  </details>
+
+  <br/>
+
+  <!-- RECENT ACTIVITY GRAPH -->
+  <a href="https://github.com/ShravaniKale18">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyonight&bg_color=0f172a&color=a855f7&line=764ba2&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  </a>
+
 </div>
 
----
+<!-- ==================== GITHUB STATS SECTION END ==================== -->---
 
 <div align="center">
 
