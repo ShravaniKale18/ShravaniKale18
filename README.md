@@ -168,7 +168,7 @@ Machine-learning application predicting student academic performance (`R² ≈ 0
 
 <p>
 <a href="https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge"/>
 </a>
 <a href="https://github.com/ShravaniKale18/Student_Performance_Prediction">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -185,7 +185,7 @@ Regression-based machine-learning application that estimates medical insurance c
 
 <p>
 <a href="https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge"/>
 </a>
 <a href="https://github.com/ShravaniKale18/insurance-charges-prediction">
 <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -246,29 +246,6 @@ Responsive weather application that fetches real-time weather information via AP
 
 ---
 
-<!-- ==================== GITHUB STATS SECTION START ==================== -->
-
-# 📈 GitHub Stats & Activity
-
-<div align="center">
-
-  <!-- TOP LANGUAGES & STATS GRID -->
-  <a href="https://github.com/ShravaniKale18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&card_width=400&title_color=a855f7&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/ShravaniKale18">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&bg_color=0f172a" alt="Shravani's GitHub Stats" />
-  </a>
-
-  <br/><br/>
-
-  <!-- CONTRIBUTION STREAK -->
-  <a href="https://github.com/ShravaniKale18">
-    <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-  </a>
-
-  <br/><br/><!-- ==================== GITHUB STATS SECTION START ==================== -->
-
 # 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -295,33 +272,14 @@ Responsive weather application that fetches real-time weather information via AP
 
   <br/>
 
-  <!-- CONTRIBUTION SNAKE / METRICS -->
+  <!-- CONTRIBUTION CHART -->
   <p align="center">
     <img width="90%" src="https://ghchart.rshah.org/764ba2/ShravaniKale18" alt="Shravani's GitHub Contribution Chart" />
   </p>
 
 </div>
 
-<!-- ==================== GITHUB STATS SECTION END ==================== -->
-  <!-- TROPHIES & MILESTONES -->
-  <details>
-    <summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
-    <br/>
-    <a href="https://github.com/ShravaniKale18">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-    </a>
-  </details>
-
-  <br/>
-
-  <!-- RECENT ACTIVITY GRAPH -->
-  <a href="https://github.com/ShravaniKale18">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyonight&bg_color=0f172a&color=a855f7&line=764ba2&point=ffffff&hide_border=true" alt="Contribution Graph" />
-  </a>
-
-</div>
-
-<!-- ==================== GITHUB STATS SECTION END ==================== -->---
+---
 
 <div align="center">
 
