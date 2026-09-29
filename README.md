@@ -267,8 +267,42 @@ Responsive weather application that fetches real-time weather information via AP
     <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
   </a>
 
-  <br/><br/>
+  <br/><br/><!-- ==================== GITHUB STATS SECTION START ==================== -->
 
+# 📈 GitHub Stats & Activity
+
+<div align="center">
+
+  <!-- TOP LANGUAGES & OVERALL STATS -->
+  <p align="center">
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&card_width=400&title_color=a855f7&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&bg_color=0f172a" alt="Shravani's GitHub Stats" />
+  </p>
+
+  <!-- CONTRIBUTION STREAK -->
+  <p align="center">
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+  </p>
+
+  <!-- TROPHIES & MILESTONES -->
+  <details>
+    <summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
+    <br/>
+    <p align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+    </p>
+  </details>
+
+  <br/>
+
+  <!-- CONTRIBUTION SNAKE / METRICS -->
+  <p align="center">
+    <img width="90%" src="https://ghchart.rshah.org/764ba2/ShravaniKale18" alt="Shravani's GitHub Contribution Chart" />
+  </p>
+
+</div>
+
+<!-- ==================== GITHUB STATS SECTION END ==================== -->
   <!-- TROPHIES & MILESTONES -->
   <details>
     <summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
