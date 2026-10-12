@@ -9,9 +9,9 @@ Building practical software with <b>Python, AI/ML, Generative AI & Full-Stack De
 </p>
 
 <p>
-<a href="https://shravanikale.vercel.app/">
+<!-- <a href="https://shravanikale.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://linkedin.com/in/shravani-kale">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
