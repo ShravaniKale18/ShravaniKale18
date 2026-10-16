@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=230&section=header&text=Shravani%20Kale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=60&descSize=18" width="100%"/>
@@ -9,9 +10,9 @@ Building practical software with <b>Python, AI/ML, Generative AI & Full-Stack De
 </p>
 
 <p>
-<!-- <a href="https://shravanikale.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a> -->
+<a href="https://portfolio-snowy-six-vvmg7lik8u.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://linkedin.com/in/shravani-kale">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -65,11 +66,13 @@ I enjoy working on projects that combine software engineering with AI — especi
 # 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
 </p>
 
 ### 🤖 AI / Machine Learning
+
 <p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -81,21 +84,25 @@ I enjoy working on projects that combine software engineering with AI — especi
 </p>
 
 ### 🌐 Web Development
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,express"/>
 </p>
+
 <p>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
 </p>
 
 ### 🗄️ Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 <img src="https://img.shields.io/badge/ChromaDB-Vector%20Database-5B21B6?style=for-the-badge"/>
 </p>
 
 ### 🧰 Tools & Platforms
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 </p>
@@ -111,6 +118,7 @@ I enjoy working on projects that combine software engineering with AI — especi
 PhishGuard combines **rule-based security analysis, heuristic risk scoring, RAG, FAISS, LangChain, Sentence Transformers, and Hugging Face LLMs**.
 
 ### ✨ Features
+
 - 🔍 Phishing message & URL analysis
 - ⚠️ Urgency, pressure, credential & financial risk detection
 - 📊 Heuristic risk score from 0–100
@@ -132,6 +140,7 @@ PhishGuard combines **rule-based security analysis, heuristic risk scoring, RAG,
 An AI-powered **RAG application** that allows users to interact with GitHub repositories using natural language.
 
 ### ✨ Features
+
 - 📂 GitHub repository ingestion
 - 🔎 Semantic code search & RAG explanations
 - 🗃️ Repository-specific vector storage
@@ -250,32 +259,28 @@ Responsive weather application that fetches real-time weather information via AP
 
 <div align="center">
 
-  <!-- TOP LANGUAGES & OVERALL STATS -->
-  <p align="center">
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&card_width=400&title_color=a855f7&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" />
-    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&bg_color=0f172a" alt="Shravani's GitHub Stats" />
-  </p>
+<p align="center">
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShravaniKale18&layout=compact&theme=tokyonight&hide_border=true&card_width=400&title_color=a855f7&text_color=cbd5e1&bg_color=0f172a" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShravaniKale18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=cbd5e1&icon_color=a855f7&bg_color=0f172a" alt="Shravani's GitHub Stats" />
+</p>
 
-  <!-- CONTRIBUTION STREAK -->
-  <p align="center">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
-  </p>
+<p align="center">
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShravaniKale18&theme=tokyonight&hide_border=true&background=0F172A&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
+</p>
 
-  <!-- TROPHIES & MILESTONES -->
-  <details>
-    <summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
-    <br/>
-    <p align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-    </p>
-  </details>
+<details>
+<summary><b>🏆 View GitHub Achievements & Trophies</b></summary>
+<br/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShravaniKale18&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+</details>
 
-  <br/>
+<br/>
 
-  <!-- CONTRIBUTION CHART -->
-  <p align="center">
-    <img width="90%" src="https://ghchart.rshah.org/764ba2/ShravaniKale18" alt="Shravani's GitHub Contribution Chart" />
-  </p>
+<p align="center">
+<img width="90%" src="https://ghchart.rshah.org/764ba2/ShravaniKale18" alt="Shravani's GitHub Contribution Chart" />
+</p>
 
 </div>
 
@@ -285,7 +290,7 @@ Responsive weather application that fetches real-time weather information via AP
 
 # 🌐 Personal Portfolio
 
-<a href="https://shravanikale.vercel.app/">
+<a href="https://portfolio-snowy-six-vvmg7lik8u.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/ShravaniKale18/PersonalPortfolioWebsite">
@@ -296,7 +301,7 @@ Responsive weather application that fetches real-time weather information via AP
 
 # 📫 Let's Connect
 
-<a href="https://shravanikale.vercel.app/">
+<a href="https://portfolio-snowy-six-vvmg7lik8u.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/shravani-kale">
