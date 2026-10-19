@@ -5,7 +5,7 @@
 <h2>👩‍💻 B.Tech Information Technology Student</h2>
 
 <p>Building practical software with <b>Python, AI/ML, Generative AI, and Full-Stack Development</b></p>
-
+ 
 <p>
 <a href="https://portfolio-snowy-six-vvmg7lik8u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/shravani-kale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
