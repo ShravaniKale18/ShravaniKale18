@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:0f172a&height=240&section=header&text=Shravani%20Kale&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=60&descSize=18" width="100%" alt="Shravani Kale profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shravani%20Kale&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descSize=18&descAlignY=60" width="100%" alt="Shravani Kale"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=45&lines=Hi+%F0%9F%91%8B+I'm+Shravani+Kale;Building+with+Python+%26+AI;RAG+%7C+LLMs+%7C+AI+Agents;Machine+Learning+%7C+Data+Science;Full-Stack+Web+Development;DSA+%7C+Problem+Solving" alt="Typing animation"/>
+# ✨ Shravani Kale ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=760&height=45&lines=Hi+there!+%F0%9F%91%8B+I%27m+Shravani;I+turn+ideas+into+deployed+apps+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+AI+Agents+%F0%9F%A4%96;Machine+Learning+%7C+Data+Science+%F0%9F%93%8A;Full-Stack+Web+Development+%F0%9F%8C%90;DSA+%7C+Problem+Solving+%F0%9F%A7%A9" alt="Typing animation"/>
 
 <p>
   <a href="https://portfolio-snowy-six-vvmg7lik8u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -16,7 +18,6 @@
   <img src="https://komarev.com/ghpvc/?username=ShravaniKale18&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/ShravaniKale18?style=for-the-badge&color=764ba2&label=FOLLOWERS&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/ShravaniKale18?style=for-the-badge&color=764ba2&label=TOTAL%20STARS&logo=github" alt="Stars"/>
-  <img src="https://img.shields.io/github/last-commit/ShravaniKale18/ShravaniKale18?style=for-the-badge&color=764ba2&label=LAST%20UPDATED" alt="Last updated"/>
   <img src="https://img.shields.io/badge/CGPA-8.98%2F10-764ba2?style=for-the-badge" alt="CGPA"/>
 </p>
 
@@ -24,24 +25,50 @@
 
 ---
 
-## 👋 About Me
+## 🖥️ `whoami`
 
-I'm a third-year **B.Tech Information Technology** student at **SGGSIET, Nanded**, building practical software with **Python, AI/ML, Generative AI and full-stack web technologies**. I like turning ideas into working, deployed apps: RAG pipelines, LLM-powered tools, multi-agent systems, ML models and backend APIs.
+```bash
+shravani@sggsiet:~$ whoami
+> Shravani Kale, B.Tech IT (3rd year) @ SGGSIET Nanded
 
-**🎯 Looking for:** SDE · Python Developer · AI/ML Engineer · Generative AI Developer · Data Analyst internships
+shravani@sggsiet:~$ cat status.txt
+> 🟢 Open to internships: SDE · Python · AI/ML · GenAI · Data Analyst
 
-### 🔭 Currently exploring
+shravani@sggsiet:~$ cat motto.txt
+> Learn. Build. Improve. Repeat.
+```
 
-- 🤖 **Generative AI & LLMs**: intelligent web apps and workflow tools
-- 🔎 **RAG architectures**: context retrieval with vector databases
-- 🧠 **Multi-agent systems**: autonomous AI agent workflows
-- 🐍 **Backend engineering**: APIs with Python, Flask and Node.js
-- 🔐 **Cybersecurity**: AI-driven vulnerability analysis and security tooling
-- 💻 **DSA**: 300+ problems solved on LeetCode and Code360
+```python
+class Shravani:
+    def __init__(self):
+        self.role      = "B.Tech IT Student & Builder"
+        self.college   = "SGGSIET, Nanded"
+        self.cgpa      = 8.98
+        self.languages = ["Python", "Java", "C++", "JavaScript"]
+        self.loves     = ["RAG", "LLM apps", "AI agents", "ML", "Flask APIs"]
+        self.dsa       = "300+ problems on LeetCode & Code360"
+        self.hunting   = ["SDE", "Python Dev", "AI/ML", "Data Analyst"]
+
+    def next_move(self):
+        return "Ship something cool, then ship the next one 🚀"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 Currently Exploring
+
+| | Focus | What I'm doing |
+| :-: | :--- | :--- |
+| 🤖 | **Generative AI & LLMs** | Intelligent web apps and workflow tools |
+| 🔎 | **RAG architectures** | Context retrieval with vector databases |
+| 🧠 | **Multi-agent systems** | Autonomous AI agent workflows |
+| 🐍 | **Backend engineering** | APIs with Python, Flask and Node.js |
+| 🔐 | **Cybersecurity** | AI-driven vulnerability analysis and security tooling |
+| 💻 | **DSA** | Sharpening problem solving every week |
+
+---
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -64,9 +91,24 @@ I'm a third-year **B.Tech Information Technology** student at **SGGSIET, Nanded*
 
 ---
 
-## 🚀 Featured Projects
+## 🧬 How My RAG Projects Work
 
-Live cards below pull **stars, forks and descriptions straight from GitHub**, so they stay current automatically.
+Several of my projects (PDF Notes Assistant, GitHub Repository Assistant, PhishGuard) share this core idea:
+
+```mermaid
+flowchart LR
+    A[📄 Documents / Code / Security Knowledge] --> B[✂️ Chunking]
+    B --> C[🧮 Embeddings<br/>Hugging Face]
+    C --> D[(🗄️ Vector DB<br/>ChromaDB / FAISS)]
+    E[❓ User Question] --> F[🔍 Similarity Search]
+    D --> F
+    F --> G[🧠 LLM via LangChain / Groq]
+    G --> H[💡 Grounded Answer]
+```
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -79,18 +121,116 @@ Live cards below pull **stars, forks and descriptions straight from GitHub**, so
 
 </div>
 
-### Project details
+<details open>
+<summary><b>🛡️ PhishGuard · AI Phishing Message & URL Analyzer</b></summary>
+<br/>
 
-| Project | What it does | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🛡️ **PhishGuard** | AI phishing message & URL analyzer with 0–100 risk scoring, urgency and credential-harvesting detection, and RAG-powered security knowledge | `Python` `Streamlit` `LangChain` `FAISS` `Sentence Transformers` | [Live Demo](https://phishgaurd---ai-phishing-message-analyzer-b5aw8qqdualgw83rnvkk.streamlit.app/) |
-| 📚 **PDF Notes Assistant** | Upload a PDF and ask questions; RAG retrieval with Groq-accelerated answers | `Flask` `LangChain` `ChromaDB` `Groq` `PyPDF` | [Repo](https://github.com/ShravaniKale18/PDF-Notes-Assistant) |
-| 🤖 **GitHub Repository Assistant** | Ask natural-language questions about any codebase; semantic search and context-aware explanations | `LangChain` `ChromaDB` `Streamlit` `RAG` | [Repo](https://github.com/ShravaniKale18/GitHub-Repository-Assistant) |
-| 🧑‍🤝‍🧑 **Multi-Agent Research System** | Specialized agents collaborate on retrieval, analysis and structured summaries | `Python` `Streamlit` `AI Agents` `LLMs` | [Live Demo](https://multi-agent-research-system-ejzkqjr7uwexjtrbxchmme.streamlit.app/) |
-| 🎓 **Student Performance Prediction** | Regression model (R² ≈ 0.96) with a real-time parameter tuning dashboard | `Pandas` `NumPy` `Scikit-Learn` `Streamlit` | [Live Demo](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) · [Repo](https://github.com/ShravaniKale18/Student_Performance_Prediction) |
-| 🏥 **Insurance Charges Prediction** | Estimates medical insurance charges from demographic and lifestyle factors | `Pandas` `Scikit-Learn` `Streamlit` | [Live Demo](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/) · [Repo](https://github.com/ShravaniKale18/insurance-charges-prediction) |
-| 💰 **Smart Expense Manager** | Full-stack finance tracker with auth, CRUD, analytics dashboards | `Flask` `SQLite/MySQL` `Bootstrap` | [Repo](https://github.com/ShravaniKale18/Smart-Expense-Manager-System) |
-| 🌦️ **Weather Web App** | Responsive real-time weather lookup by location | `HTML` `CSS` `JavaScript` | [Live Demo](https://shravanikale18.github.io/weather-web-app/) · [Repo](https://github.com/ShravaniKale18/weather-web-app) |
+Analyzes suspicious messages and URLs, gives a **0–100 risk score**, spots urgency and credential-harvesting tactics, and explains them using RAG-powered security knowledge.
+
+`Python` `Streamlit` `LangChain` `FAISS` `Sentence Transformers`
+
+[🚀 Live Demo](https://phishgaurd---ai-phishing-message-analyzer-b5aw8qqdualgw83rnvkk.streamlit.app/)
+</details>
+
+<details>
+<summary><b>📚 PDF Notes Assistant · Chat with your PDFs</b></summary>
+<br/>
+
+Upload a PDF, ask questions, and get answers from the right passages. Parsing, chunking, embeddings, ChromaDB retrieval and Groq-accelerated reasoning.
+
+`Python` `Flask` `LangChain` `ChromaDB` `Hugging Face` `Groq` `PyPDF`
+
+[📂 Repository](https://github.com/ShravaniKale18/PDF-Notes-Assistant)
+</details>
+
+<details>
+<summary><b>🤖 GitHub Repository Assistant · Talk to any codebase</b></summary>
+<br/>
+
+Ingests a GitHub repo and answers natural-language questions with semantic search and context-aware code explanations.
+
+`Python` `LangChain` `Hugging Face` `ChromaDB` `Streamlit` `RAG`
+
+[📂 Repository](https://github.com/ShravaniKale18/GitHub-Repository-Assistant)
+</details>
+
+<details>
+<summary><b>🧑‍🤝‍🧑 Multi-Agent Research System · A team of AI agents</b></summary>
+<br/>
+
+Specialized agents collaborate on retrieval, analysis and synthesis, producing structured research summaries.
+
+`Python` `Streamlit` `AI Agents` `LLMs`
+
+[🚀 Live Demo](https://multi-agent-research-system-ejzkqjr7uwexjtrbxchmme.streamlit.app/)
+</details>
+
+<details>
+<summary><b>🎓 Student Performance Prediction · R² ≈ 0.96</b></summary>
+<br/>
+
+Regression-based ML app with a feature engineering pipeline and a real-time parameter tuning dashboard.
+
+`Python` `Pandas` `NumPy` `Scikit-Learn` `Streamlit`
+
+[🚀 Live Demo](https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/) · [📂 Repository](https://github.com/ShravaniKale18/Student_Performance_Prediction)
+</details>
+
+<details>
+<summary><b>🏥 Insurance Charges Prediction</b></summary>
+<br/>
+
+Estimates medical insurance charges from demographic and lifestyle factors, with data visualization and an interactive interface.
+
+`Python` `Pandas` `Scikit-Learn` `Streamlit`
+
+[🚀 Live Demo](https://insurance-charges-prediction-c7azzbduqznk6onnhlyrol.streamlit.app/) · [📂 Repository](https://github.com/ShravaniKale18/insurance-charges-prediction)
+</details>
+
+<details>
+<summary><b>💰 Smart Expense Manager · Full-stack finance tracker</b></summary>
+<br/>
+
+Secure authentication, CRUD for income and expenses, database persistence and analytics dashboards.
+
+`Python` `Flask` `SQLite/MySQL` `HTML` `CSS` `Bootstrap`
+
+[📂 Repository](https://github.com/ShravaniKale18/Smart-Expense-Manager-System)
+</details>
+
+<details>
+<summary><b>🌦️ Weather Web App · Live weather by location</b></summary>
+<br/>
+
+Lightweight, responsive interface showing real-time weather from a third-party API.
+
+`HTML` `CSS` `JavaScript` `Weather API`
+
+[🚀 Live Demo](https://shravanikale18.github.io/weather-web-app/) · [📂 Repository](https://github.com/ShravaniKale18/weather-web-app)
+</details>
+
+---
+
+## 🗺️ My Journey
+
+```mermaid
+timeline
+    title Learning & Building Timeline
+    2025 : ML with AI (Top Performer) · Internshala & IITM Pravartak
+    2026 Jun-Jul : Frontend Development Virtual Internship · CodeAlpha
+    2026 Jul : AI & ML Internship · Codomax Digital Solutions
+    2026 Aug : Data Analytics with AI Internship · AICTE · IBM SkillsBuild · BharatCares
+    2026 Sep : Building LLM Applications With Prompt Engineering · NVIDIA
+```
+
+### 🏆 Achievements
+
+| | |
+| :-: | :--- |
+| 🚀 | **Hack Devengers 2.0**: national-level hackathon (Devengers via Unstop) |
+| ⚡ | **WebRush**: 6-hour frontend hackathon (Frontend Arena via Unstop) |
+| 🎓 | **8.98 / 10 CGPA** in B.Tech IT · **93.65%** in Diploma |
+| 💻 | **300+ DSA problems** across LeetCode and Code360 in Java, C++ and Python |
 
 ---
 
@@ -115,15 +255,11 @@ Live cards below pull **stars, forks and descriptions straight from GitHub**, so
 
 <br/><br/>
 
-### 🧩 LeetCode
-
 <img width="60%" src="https://leetcard.jacoblin.cool/shravanikale38?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
 
 <br/><br/>
 
-### 📊 Contribution Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=a855f7&line=764ba2&point=ffffff&area=true&area_color=764ba2" alt="Contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShravaniKale18&theme=tokyonight&hide_border=true&bg_color=0f172a&color=a855f7&line=764ba2&point=ffffff&area=true&area_color=764ba2" alt="Contribution activity graph"/>
 
 <br/><br/>
 
@@ -147,26 +283,7 @@ Live cards below pull **stars, forks and descriptions straight from GitHub**, so
 
 ---
 
-## 📜 Certifications & Experience
-
-| Program / Certification | Organization | Period |
-| :--- | :--- | :--- |
-| 🤖 **AI & ML Internship** | Codomax Digital Solutions | July 2026 |
-| 📊 **Data Analytics with AI Internship** | AICTE · IBM SkillsBuild · BharatCares | August 2026 |
-| ⚡ **Building LLM Applications With Prompt Engineering** | NVIDIA | September 2026 |
-| 🎨 **Frontend Development, Virtual Internship** | CodeAlpha | June–July 2026 |
-| 🧠 **Machine Learning with AI, Top Performer** | Internshala & IITM Pravartak | January 2025 |
-
-## 🏆 Achievements
-
-- 🚀 **Hack Devengers 2.0**: national-level hackathon (Devengers via Unstop)
-- ⚡ **WebRush**: 6-hour frontend hackathon (Frontend Arena via Unstop)
-- 🎓 **8.98 / 10 CGPA** in B.Tech IT, **93.65%** in Diploma
-- 💻 **300+ DSA problems** solved across LeetCode and Code360 in Java, C++ and Python
-
----
-
-## 💬 Dev Quote of the Moment
+## 🎲 Fun Corner
 
 <div align="center">
 
@@ -174,11 +291,19 @@ Live cards below pull **stars, forks and descriptions straight from GitHub**, so
 
 </div>
 
+```text
+while alive:
+    learn()
+    build()
+    improve()
+    repeat()   # 💜
+```
+
 ---
 
 ## 📫 Let's Connect
 
-I'm open to internships, collaborations and tech conversations.
+I'm always up for internships, collaborations and good tech conversations. Say hi!
 
 <div align="center">
 
@@ -188,8 +313,6 @@ I'm open to internships, collaborations and tech conversations.
 
 <br/><br/>
 
-**💜 Learn. Build. Improve. Repeat.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f172a&height=140&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
