@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shravani%20Kale&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Aspiring%20SDE%20%7C%20Python%20%7C%20AI%2FML%20%7C%20GenAI&descSize=18&descAlignY=60" width="100%" alt="Shravani Kale"/>
 
 # ✨ Shravani Kale ✨
