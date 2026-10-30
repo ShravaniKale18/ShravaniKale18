@@ -264,16 +264,6 @@ timeline
 
 <br/><br/>
 
-<br/><br/>
-
-### 🧬 Language Composition
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/language-composition-wide-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="./profile/language-composition-wide-light.svg"/>
-  <img alt="Language composition" src="./profile/language-composition-wide-dark.svg" width="95%"/>
-</picture>
-
 ### 🐍 Contribution Snake
 
 <picture>
