@@ -47,7 +47,7 @@ class Shravani:
         self.cgpa      = 8.98
         self.languages = ["Python", "Java", "C++", "JavaScript"]
         self.loves     = ["RAG", "LLM apps", "AI agents", "ML", "Flask APIs"]
-        self.dsa       = "300+ problems on LeetCode & Code360"
+        self.dsa       = "250+ problems on LeetCode & Code360"
         self.hunting   = ["SDE", "Python Dev", "AI/ML", "Data Analyst"]
 
     def next_move(self):
